@@ -1,0 +1,1 @@
+import{_ as e}from"./Content-5d1cd972.js";import{o as t,c as a,a as o}from"./index-f54be310.js";import"./ContentItem-19db1537.js";const s={class:"main"},i={__name:"Tv",setup(c){return(r,_)=>(t(),a("div",s,[o(e,{type:"tv"})]))}};export{i as default};
